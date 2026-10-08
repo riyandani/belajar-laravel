@@ -1,22 +1,15 @@
-<!-- <!DOCTYPE html>
-<html>
-<head>
-    <title>Halaman 4</title>
-</head>
-<body>
+@extends('master')
 
-    <nav>
-        <a href="/halaman1">Halaman 1</a> |
-        <a href="/halaman2">Halaman 2</a> |
-        <a href="/halaman3">Halaman 3</a> |
-        <a href="/halaman4">Halaman 4</a> |
-        <a href="/halaman5">Halaman 5</a>
-    </nav>
+@section('title', 'Halaman 4')
 
-    <hr>
-
-    <h1>Halaman 4</h1>
-    <p>Selamat datang di Halaman 4.</p>
-
-</body>
-</html> -->
+@section('content')
+    <h1>Halaman 4: Struktur yang Rapi</h1>
+    <p>
+        Struktur proyek yang rapi membuat proses pengembangan dan pemeliharaan
+        aplikasi menjadi lebih mudah.
+    </p>
+    <p>
+        Route mengatur alamat halaman, sedangkan view bertanggung jawab
+        menampilkan informasi kepada pengguna.
+    </p>
+@endsection

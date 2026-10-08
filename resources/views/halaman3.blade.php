@@ -1,22 +1,15 @@
-<!-- <!DOCTYPE html>
-<html>
-<head>
-    <title>Halaman 3</title>
-</head>
-<body>
+@extends('master')
 
-    <nav>
-        <a href="/halaman1">Halaman 1</a> |
-        <a href="/halaman2">Halaman 2</a> |
-        <a href="/halaman3">Halaman 3</a> |
-        <a href="/halaman4">Halaman 4</a> |
-        <a href="/halaman5">Halaman 5</a>
-    </nav>
+@section('title', 'Halaman 3')
 
-    <hr>
-
-    <h1>Halaman 3</h1>
-    <p>Selamat datang di Halaman 3.</p>
-
-</body>
-</html> -->
+@section('content')
+    <h1>Halaman 3: Template Blade</h1>
+    <p>
+        Blade memungkinkan kita menggunakan layout bersama, section, dan
+        komponen sehingga kode tampilan tidak perlu ditulis berulang-ulang.
+    </p>
+    <p>
+        Dengan inheritance, halaman ini dapat menggunakan navigasi dan gaya dari
+        master blade secara otomatis.
+    </p>
+@endsection

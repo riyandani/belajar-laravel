@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi kegiatan belajar</title>
+  <desc id="desc">Ilustrasi laptop dan buku untuk halaman pembelajaran Laravel</desc>
+  <rect width="960" height="420" rx="24" fill="#e8f4f8"/>
+  <circle cx="820" cy="80" r="44" fill="#f5b971"/>
+  <path d="M0 340c170-70 285-35 430-5 150 32 285 21 530-45v130H0z" fill="#b8dfd8"/>
+  <rect x="250" y="95" width="460" height="245" rx="16" fill="#243447"/>
+  <rect x="275" y="120" width="410" height="190" rx="8" fill="#ffffff"/>
+  <rect x="320" y="155" width="220" height="18" rx="9" fill="#1f6f8b"/>
+  <rect x="320" y="195" width="300" height="12" rx="6" fill="#b8dfd8"/>
+  <rect x="320" y="225" width="250" height="12" rx="6" fill="#d7e8ed"/>
+  <path d="M180 350h600l-54 28H234z" fill="#162a3a"/>
+  <rect x="395" y="350" width="170" height="10" rx="5" fill="#f5b971"/>
+  <path d="M105 322h120l24 28H80z" fill="#f5b971"/>
+  <path d="M120 304h96v18h-96z" fill="#ffffff"/>
+  <path d="M750 260h95v65h-95z" fill="#ffffff"/>
+  <path d="M750 260l48-24 47 24z" fill="#1f6f8b"/>
+  <path d="M766 280h63M766 298h63" stroke="#b8dfd8" stroke-width="8"/>
+</svg>
